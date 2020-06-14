@@ -1,0 +1,24 @@
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\obj\Debug\Analizator8.csprojResolveAssemblyReference.cache
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\obj\Debug\Analizator8.Form1.resources
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\obj\Debug\Analizator8.Properties.Resources.resources
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\obj\Debug\Analizator8.csproj.GenerateResource.cache
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\obj\Debug\Analizator8.csproj.CoreCompileInputs.cache
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\bin\Debug\Analizator8.exe.config
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\bin\Debug\Analizator8.exe
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\bin\Debug\Analizator8.pdb
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\obj\Debug\Analizator8.exe
+C:\Users\163ty\OneDrive\Рабочий стол\ТФЯиГ\Analizator8\Analizator8\obj\Debug\Analizator8.pdb
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.csprojAssemblyReference.cache
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.Properties.Resources.resources
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.csproj.GenerateResource.cache
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.exe
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.pdb
+C:\Users\Георгий\Downloads\МОй\Analizator8\bin\Debug\Analizator8.exe.config
+C:\Users\Георгий\Downloads\МОй\Analizator8\bin\Debug\Analizator8.exe
+C:\Users\Георгий\Downloads\МОй\Analizator8\bin\Debug\Analizator8.pdb
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.ananlyzer_19.resources
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.Lang-De.resources
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.Lang-Ru.resources
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.Lang-En.resources
+C:\Users\Георгий\Downloads\МОй\Analizator8\obj\Debug\Analizator8.Lang-FR.resources
